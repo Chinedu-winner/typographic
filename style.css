@@ -1,0 +1,12 @@
+p{
+    color: rebeccapurple;
+    text-transform: capitalize;
+    text-align: justify;
+    text-decoration: underline red; 
+    /* text-shadow: 2px, 3px, 50px black; */
+    text-indent: 209px;
+    text-wrap: wrap; 
+    font-family: 'Kanit', sans-serif; 
+    /* font-size: 0px;  */
+    font-size: medium;
+}
